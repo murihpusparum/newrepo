@@ -1,1 +1,2 @@
-line baru
+line 1
+line 2
