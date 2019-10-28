@@ -1,4 +1,8 @@
 line baru
 line baru
+<<<<<<< HEAD
 line ketiga
 line keempat
+=======
+line baru lagi
+>>>>>>> e91de698493a8e045c9e37fd347843ae87fe083a
